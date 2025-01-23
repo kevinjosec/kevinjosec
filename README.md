@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, My name is Kevin and I'm an entry level font-end developer
+👋 Hi, My name is Kevin and I'm an entry level front-end developer
 
 
 ## 🌐 Socials:
